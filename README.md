@@ -1,6 +1,5 @@
-### Hello
+# Welcome to My GitHub Profile!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TMZ-429&show_icons=true&theme=radical)
-
 
 <!--
 **TMZ-429/TMZ-429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
